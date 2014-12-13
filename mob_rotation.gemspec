@@ -9,6 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Pat Maddox"]
   spec.email         = ["pat@rubysteps.com"]
   spec.summary       = "Manage a mob list during a mobbing session"
+  spec.description   = "Provides an executable to manage a mob list"
   spec.homepage      = "https://github.com/RubySteps/mob_rotation"
   spec.license       = "MIT"
 
@@ -19,5 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rspec", "~> 3.1.0"
+  spec.add_development_dependency "rspec", "~> 3.1"
 end
