@@ -11,4 +11,15 @@
 *.so
 *.o
 *.a
+*~
+*_test.*
+rotation.txt
+test*.txt
+results.txt
+rotate.txt
+\#*\#
+.\#*
+tmp
+vendor
+*.swp
 mkmf.log
